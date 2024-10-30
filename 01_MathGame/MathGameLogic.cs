@@ -13,7 +13,8 @@ namespace MathGame
       Console.WriteLine("5. Random Mode");
       Console.WriteLine("6. Show History");
       Console.WriteLine("7. Change Difficulty");
-      Console.WriteLine("8. Exit");
+      Console.WriteLine("8. Show Score");
+      Console.WriteLine("9. Exit");
     }
 
     public int MathOperation(int firstNumber, int secondNumber, char operation) {
